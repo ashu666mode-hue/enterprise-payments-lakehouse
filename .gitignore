@@ -26,6 +26,8 @@ logs/
 # Temporary data
 data/raw/
 data/processed/
+data/bronze/
+data/silver/
 
 # Terraform
 .terraform/
